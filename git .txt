@@ -1,0 +1,6 @@
+>> When you are making git hub for the first time
+git config --global user.name "Sharon1234-byte"
+git config --global user.email "sharonwaghmare21@gmail.com"
+git config --global color.ui auto
+git init
+git remote add origin (add the link of the repo)
